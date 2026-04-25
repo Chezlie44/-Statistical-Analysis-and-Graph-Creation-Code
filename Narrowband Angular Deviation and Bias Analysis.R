@@ -1,8 +1,8 @@
 # Loading relevant packages
-library(tidyr)
+library(tidyerse)
 library(rstatix)
-library(ggpubr)
 library(readxl)
+library(ggpubr)
 
 # Setting WD to data folder
 setwd("~/Desktop/Project/Data&Results/Dataset")
