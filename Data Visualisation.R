@@ -1,10 +1,8 @@
 # Loading relevant packages
-library(dplyr)
-library(tidyr)
-library(ggplot2)
-library(mgcv)
-library(readxl)
+library(tidyverse)
 library(rstatix)
+library(readxl)
+library(mgcv)
 
 # Setting WD to data folder
 setwd("~/Desktop/Project/Data&Results/Dataset")
